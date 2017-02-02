@@ -14,4 +14,5 @@
     <color name="divider">#BDBDBD</color>
     <!-- Edit text  color -->
     <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorBlack">#000000</color>
 </resources>

@@ -7,4 +7,9 @@
     <dimen name="edittext_textsize_login">22sp</dimen>
     <dimen name="padding_horizontal_login">31dp</dimen>
     <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="edittext_margin_create_account">10dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="cardvirew_corner_radius">4dp</dimen>
+    <dimen name="textsize_username_card">25sp</dimen>
+
 </resources>
