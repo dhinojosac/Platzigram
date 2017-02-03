@@ -13,6 +13,10 @@
     <color name="icons">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
     <!-- Edit text  color -->
-    <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorWhite">#ffffff</color>
     <color name="editTextColorBlack">#000000</color>
+
+    <color name="backgroundtext_card">#77292929</color>
+
+
 </resources>
