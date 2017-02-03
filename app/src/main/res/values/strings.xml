@@ -23,4 +23,7 @@
     <string name="tab_search">Buscar</string>
     <string name="tab_home">Inicio</string>
     <string name="tab_profile">Perfil</string>
+    <string name="second_word_detail">Me gusta</string>
+    <string name="title_image_detail">\"Montañas\"</string>
+    <string name="content_image_detail">Detalles del contenido de la imagen</string>
 </resources>
