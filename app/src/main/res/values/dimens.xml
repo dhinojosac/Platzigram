@@ -21,5 +21,18 @@
     <dimen name="margin_secoondword_detail">7dp</dimen>
     <dimen name="divider_height">1dp</dimen>
     <dimen name="title_paddingtop_detail">20dp</dimen>
+    <dimen name="activity_horizontal_description_detail">25dp</dimen>
+    <dimen name="textsize_username_profile">30dp</dimen>
+    <dimen name="dimen_circleimageprofile">150dp</dimen>
+    <dimen name="margintop_image_profile">30dp</dimen>
+    <dimen name="elevation_image_profile">10dp</dimen>
+    <dimen name="limitY_circleImage">-206dp</dimen>
+    <dimen name="marginTop_toolbar_circleImage">4dp</dimen>
+    <dimen name="with_target_circleimage_profile">38dp</dimen>
+    <dimen name="textsize_user_toolbar_profile">20sp</dimen>
+    <dimen name="marginleft_username_toolbar_profile">72dp</dimen>
+    <dimen name="margintop_username_toolbar_profile">-100dp</dimen>
+    <dimen name="limitY_username_toolbar_profile">0dp</dimen>
+    <dimen name="marginTop_toolbar_username_profile">12dp</dimen>
 
 </resources>

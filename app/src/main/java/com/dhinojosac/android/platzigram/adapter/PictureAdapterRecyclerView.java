@@ -47,6 +47,7 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
         //load image with picasso from internet
         Picasso.with(activity).load(picture.getPicture()).into(holder.pictureCard);
 
+        // add onClickListener
         holder.pictureCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
