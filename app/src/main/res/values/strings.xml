@@ -27,4 +27,7 @@
     <string name="title_image_detail">\"Montañas\"</string>
     <string name="content_image_detail">Detalles del contenido de la imagen</string>
     <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae metus in nisi tincidunt placerat non sed elit. In hac habitasse platea dictumst. Phasellus at mi bibendum, facilisis quam id, iaculis dolor. Integer aliquet nisl eu erat consectetur, sit amet ultrices mauris porta. Sed placerat lectus ut tristique dapibus. Curabitur eleifend in neque dictum blandit. Praesent at congue nibh. Curabitur accumsan lobortis justo, non laoreet turpis tempus in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus erat odio, interdum sed diam sit amet, fermentum tempus quam.</string>
+    <string name="transition_name_picture">transitionNamePicture</string>
+    <string name="searchhinttext">Buscar usuario</string>
+    <string name="search_text_menu">Buscar</string>
 </resources>

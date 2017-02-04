@@ -18,7 +18,8 @@
             android:layout_height="198dp"
             android:background="@drawable/mountain"
             android:scaleType="centerCrop"
-            android:contentDescription="" />
+            android:contentDescription=""
+            android:transitionName="@string/transition_name_picture"/>
 
 
 
